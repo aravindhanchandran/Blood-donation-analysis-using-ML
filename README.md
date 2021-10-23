@@ -19,4 +19,4 @@ Machine learning model used in this project are
 
 Using different Machine Learning model to conclude which models predict highest accuracy score
 
-Out of 5 models Support Vector Machine predicts the accuracy of 79%
+Out of 5 models Support Vector Machine predict the accuracy of 78%
